@@ -68,6 +68,7 @@ cd contact-book
 
 # Run the application
 python contact_book.py
+```
 
 ---
 
